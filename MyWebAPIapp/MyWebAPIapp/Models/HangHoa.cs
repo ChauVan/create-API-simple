@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace MyWebAPIapp.Models
 {
@@ -13,7 +10,7 @@ namespace MyWebAPIapp.Models
     public class HangHoa : HangHoaTGDD
     {
         public Guid maHH { get; set; }
-      
+
     }
 
 }
