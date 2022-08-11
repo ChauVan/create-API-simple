@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhHKTQ0PY5DGEimDwL3s04TKY08iWKQEz6AzkGKs7Ee7g3e8q4C96HUtki5i31PKhpi6iQHkjSKOdGhN8OCzqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Van Trung Chau\\Desktop\\create API simple\\MyWebAPIapp\\MyWebAPIapp\\MyWebAPIapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Van Trung Chau\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Van Trung Chau\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Van Trung Chau\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Van Trung Chau\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Van Trung Chau\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Van Trung Chau\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
